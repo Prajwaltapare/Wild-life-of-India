@@ -1,0 +1,92 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+  font-family: "baloo", sans-serif;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #666;
+}
+.pimg1 {
+  background-image: url(https://img.freepik.com/free-photo/tranquil-scene-flowing-water-forest-generated-by-ai_188544-35729.jpg?t=st=1708696832~exp=1708700432~hmac=ec8d561024af63b54f0cd901cda41e58501bb0cb9b8ca798d9d96e94037a170d&w=1380);
+  min-height: 100%;
+  
+}
+.pimg2 {
+  background-image: url(https://img.freepik.com/free-photo/amazing-bengal-tiger-nature_475641-1155.jpg?t=st=1708674573~exp=1708678173~hmac=bd3937c41eff685cf1468cd0ea142a82f2efd06263a8a8e4a24d810d47dfb6ff&w=1060);
+  min-height: 800px;
+}
+.pimg3 {
+  background-image: url(https://img.freepik.com/free-photo/elephant-sunset_1048-4765.jpg?t=st=1708674721~exp=1708678321~hmac=b2c44b1a66b84b7db18e47ec8c6a00e9560556df7f294b4fafe39154505dfe9f&w=1060);
+  min-height: 800px;
+}
+.pimg4{
+  background-image: url(https://i0.wp.com/www.baijupatil.com/wp-content/uploads/2022/01/baiju-patil-gallery-23.jpg?w=1024&ssl=1);
+  min-height: 800px;
+}
+.pimg5{
+  background-image: url(https://i0.wp.com/www.baijupatil.com/wp-content/uploads/2022/01/baiju-patil-gallery-34.jpg?w=1024&ssl=1);
+  min-height: 800px;
+}
+.pimg6 {
+    background-image: url(https://i0.wp.com/www.baijupatil.com/wp-content/uploads/2022/01/baiju-patil-gallery-18.jpg?w=682&ssl=1);
+    min-height:100%; 
+    position: relative;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+.pimg1,
+.pimg2,
+.pimg3,
+.pimg4,
+.pimg5 {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.ptext {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+.ptext1 {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 27px;
+  /* letter-spacing: 8px; */
+  text-transform: uppercase;
+}
+.textBg {
+  background: #313534;
+  color: #fff;
+  padding: 20px;
+}
+
+.section {
+  padding: 50px 80px;
+  text-align: center;
+}
+.section-light {
+  background-color: #f4f4f4;
+  color: #666;
+}
+.section-dark {
+  background-color: #282e34;
+  color: #ddd;
+}
