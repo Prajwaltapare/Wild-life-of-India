@@ -1,5 +1,5 @@
 
-# CodeHub
+# Wild Life of India
 
 This project showcases a frontend webpage for a Wild life of India website, elegantly rendered using HTML & CSS. Explore Information and amazing Photography of Indian Wild Life in an intuitive user interface.
 
